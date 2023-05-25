@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+h2{
+    color:red;
+}
+p,mark{
+    color:rgb(196, 22, 22);
+}
+
+li{
+    letter-spacing: 4px;
+    color:rgb(189, 32, 32) ;
+}
+a{
+    background-color: yellow    ;
+    font-style:italic;
+    font-size: bold 
+    
+}
+b{
+    color:brown;
+}
